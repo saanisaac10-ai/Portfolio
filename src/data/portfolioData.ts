@@ -81,8 +81,8 @@ export const PROFILE_INFO = {
   email: 'saanisaac10@gmail.com',
   linkedin: 'https://linkedin.com/in/saan-isaac-926ba0ab',
   linkedinDisplay: 'linkedin.com/in/saan-isaac-926ba0ab',
-  github: 'https://github.com/saanisaac10',
-  githubDisplay: 'github.com/saanisaac10',
+  github: 'https://github.com/saanisaac10-ai',
+  githubDisplay: 'github.com/saanisaac10-ai',
   experienceYears: '11+ Yrs Experience · 8+ Yrs HR, Strategy & AI',
   industries: 'EdTech · QSR · EV · Consulting (PwC) · Retail (Target)',
 };
