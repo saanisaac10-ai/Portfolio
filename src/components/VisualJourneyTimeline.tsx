@@ -10,13 +10,8 @@ export const VisualJourneyTimeline: React.FC = () => {
     <div className="space-y-4">
       {/* Interactive Visual Stepper Track (2012 -> 2026) */}
       <div className="rounded-2xl minimal-card p-4 sm:p-5 space-y-4">
-        <div className="flex flex-wrap items-center justify-between gap-2 text-xs text-zinc-500">
-          <span className="font-semibold text-zinc-800">
-            Interactive Career Map (Click any milestone from 2012 to 2026)
-          </span>
-          <span className="font-mono-tabular text-indigo-700 font-semibold">
-            Rooted in a 40-Year Family Legacy in HR
-          </span>
+        <div className="text-xs text-zinc-500 font-semibold text-zinc-800">
+          Interactive Career Map (Click any milestone from 2012 to 2026)
         </div>
 
         {/* Connected Horizontal Stepper Nodes */}
